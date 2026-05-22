@@ -45,15 +45,15 @@ Passionate about **Cybersecurity • DevSecOps • AI/ML • Cloud Security**
 ## 📊 GitHub Metrics
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=M1racleScr1pt&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MiracleOmokaro&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M1racleScr1pt&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiracleOmokaro&theme=tokyonight" alt="GitHub Stats Summary" />
 
 <!-- Profile Summary Cards – modern, reliable replacement for the broken advanced metrics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1racleScr1pt&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiracleOmokaro&theme=tokyonight" alt="Profile Details" />
 </p>
  
 <br/><br/>
