@@ -1,8 +1,8 @@
 ---
 ![Mission](https://img.shields.io/badge/mission-build%2C%20secure%2C%20and%20share%20with%20purpose-brightgreen?style=for-the-badge)
 
-![GitHub top language](https://img.shields.io/github/languages/top/M1racleScr1pt/M1racleScr1pt?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/M1racleScr1pt/M1racleScr1pt?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/M1racleOmokaro/M1racleOmokaro?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/M1racleOmokaro/M1racleOmokaro?style=for-the-badge)
 
 <br/><br/>
 
