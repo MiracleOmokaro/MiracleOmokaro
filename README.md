@@ -3,7 +3,6 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/M1racleOmokaro/M1racleOmokaro?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/M1racleOmokaro/M1racleOmokaro?style=for-the-badge)
-
 <br/><br/>
 
 # Hi there 👋
